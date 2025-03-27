@@ -16,7 +16,7 @@ This is a **React (Next.js) frontend** for the **Customer Review Classification*
 ### **How to Run Locally** 🏃‍♂️  
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/customer-review-classifier-frontend.git
+git clone https://github.com/ma5Codes/customer-review-classifier-frontend.git
 cd customer-review-classifier-frontend
 ```
 2️⃣ Install dependencies:  
